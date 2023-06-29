@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ivanradanov.github.io/sitemap.xml
