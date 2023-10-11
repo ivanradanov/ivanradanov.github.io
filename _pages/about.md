@@ -6,7 +6,7 @@ subtitle: Tokyo Institute of Technology, RIKEN R-CCS #<a href='#'>Affiliations</
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: my_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     Kobe, Japan
