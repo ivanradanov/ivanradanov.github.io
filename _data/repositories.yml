@@ -2,4 +2,5 @@ github_users:
   - ivanradanov
 
 github_repos:
-  - llvm-project/Polygeist
+  - llvm/Polygeist
+  - llvm/llvm-project
