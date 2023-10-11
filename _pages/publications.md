@@ -7,12 +7,14 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+## Publications
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
+## Talks
 <div class="talks">
 
 Oct. 2023
@@ -39,6 +41,7 @@ Feb. 2021
 
 </div>
 
+## Posters
 <div class="posters">
 
 May. 2023
