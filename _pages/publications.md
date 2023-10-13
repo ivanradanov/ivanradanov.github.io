@@ -40,6 +40,10 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
+##### Sep. 2023
+**I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
+*Performance Portability of C/C++ CUDA Code via High-Level Intermediate Representation*. 2023 RIKEN Summer School
+
 ##### May. 2023
 Ryan Barton, Mohamed Wahib, Jens Domke, **Ivan R. Ivanov**, Toshio Endo, Satoshi Matsuoka.
 *BITFLEX - An HPC User-Driven Automatic Toolchain for Precision Manipulation and Approximate Computing.* ISC High Performance 2023
