@@ -55,3 +55,10 @@ Ryan Barton, Mohamed Wahib, Jens Domke, **Ivan R. Ivanov**, Toshio Endo, Satoshi
 W. S. Moses, **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert, and O. Zinenko.
 *High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs in Polygeist/MLIR.* 2022 LLVM Developers' Meeting. 
 
+## Theses
+
+##### Mar 2023 - Master's Thesis
+Optimizations and Transformations of Parallel Code via High Level Intermediate Representation
+
+##### Mar 2021 - Bachelor's Thesis
+Improved failover for HPC interconnects through localised routing restoration
