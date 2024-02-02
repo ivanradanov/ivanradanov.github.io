@@ -16,13 +16,19 @@ nav_order: 1
 
 ## Talks
 
+##### Mar. 2024
+(Accepted) **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
+*Retargeting and Respecializing GPU Workloads for Performance Portability.*
+CGO '24
+
 ##### Oct. 2023
 **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
 *Optimization of CUDA GPU Kernels and Translation to AMDGPU in Polygeist/MLIR.* 2023 LLVM Developers' Meeting. Student Talk
 
 ##### Oct. 2023
 **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, J. Doerfert, and W. S. Moses.
-*GPU Kernel Compilation in Polygeist/MLIR.* 2023 LLVM Developers' Meeting GPU Offloading Workshop. Lightning Talk
+*GPU Kernel Compilation in Polygeist/MLIR.*
+2023 LLVM Developers' Meeting GPU Offloading Workshop. Lightning Talk
 
 ##### Nov. 2022
 W. S. Moses, **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert, and O. Zinenko.
@@ -40,6 +46,16 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
+##### Mar. 2024
+*(Accepted)* **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
+*Dynamic Thread Coarsening for OpenMP Offloading.*
+CGO '24 Student Research Competition.
+
+##### Mar. 2024
+*(Accepted)* S. Burak, **I. R. Ivanov**, J. Domke, M. Mueller.
+*Unifying SPMD and Multi-Value IR - Use Case: Static Verification of Collective Communication.*
+CGO '24 Student Research Competition.
+
 ##### Sep. 2023
 **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
 *Performance Portability of C/C++ CUDA Code via High-Level Intermediate Representation*. 2023 RIKEN Summer School
@@ -49,7 +65,7 @@ Ryan Barton, Mohamed Wahib, Jens Domke, **Ivan R. Ivanov**, Toshio Endo, Satoshi
 *BITFLEX - An HPC User-Driven Automatic Toolchain for Precision Manipulation and Approximate Computing.* ISC High Performance 2023
 
 ##### Feb. 2023
-**Ivan R. Ivanov**, William S. Moses, Jens Domke, Toshio Endo. *Parallel Optimizations and Transformations of GPU Kernels Using a High-Level representation in MLIR/Polygeist.* IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+**Ivan R. Ivanov**, William S. Moses, Jens Domke, Toshio Endo. *Parallel Optimizations and Transformations of GPU Kernels Using a High-Level representation in MLIR/Polygeist.* CGO '23 Student Research Competition
 
 ##### Nov. 2022
 W. S. Moses, **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert, and O. Zinenko.
