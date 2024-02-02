@@ -23,7 +23,7 @@ CGO '24
 
 ##### Mar. 2024
 (Accepted) **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert.
-*Automatic Parallelization and OpenMP Offloading of Fortran*
+*Automatic Parallelization and OpenMP Offloading of Fortran.*
 CGO '24 LLVM Performance Workshop
 
 ##### Oct. 2023
