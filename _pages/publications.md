@@ -21,6 +21,11 @@ nav_order: 1
 *Retargeting and Respecializing GPU Workloads for Performance Portability.*
 CGO '24
 
+##### Mar. 2024
+(Accepted) **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert.
+*Automatic Parallelization and OpenMP Offloading of Fortran*
+CGO '24 LLVM Performance Workshop
+
 ##### Oct. 2023
 **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
 *Optimization of CUDA GPU Kernels and Translation to AMDGPU in Polygeist/MLIR.* 2023 LLVM Developers' Meeting. Student Talk
@@ -78,3 +83,9 @@ Optimizations and Transformations of Parallel Code via High Level Intermediate R
 
 ##### Mar 2021 - Bachelor's Thesis
 Improved failover for HPC interconnects through localised routing restoration
+
+<!---
+## Conference Service
+SC 24 Reproducibility Committee Member
+EuroPar 24 LLVM-GPU Workshop Program Committee Member
+-->
