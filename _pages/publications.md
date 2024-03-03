@@ -86,6 +86,7 @@ Improved failover for HPC interconnects through localised routing restoration
 
 <!---
 ## Conference Service
+CGO24 LLVM Performance Workshop Moderator
 SC 24 Reproducibility Committee Member
 EuroPar 24 LLVM-GPU Workshop Program Committee Member
 -->
