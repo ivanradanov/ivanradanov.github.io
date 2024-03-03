@@ -16,13 +16,21 @@ nav_order: 1
 
 ## Talks
 
+##### Apr. 2024
+(Accepted) **I. R. Ivanov** and W. S. Moses.
+*Automatic Retuning of Floating-Point Precision -Ivan R. Ivanov, William S. Moses*
+
+##### Apr. 2024
+(Accepted) Johannes Doerfert and **Ivan R. Ivanov**
+*Automatic Proxy App Generation through Input Capture and Generation*
+
 ##### Mar. 2024
-(Accepted) **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
+**I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
 *Retargeting and Respecializing GPU Workloads for Performance Portability.*
 CGO '24
 
 ##### Mar. 2024
-(Accepted) **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert.
+**I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert.
 *Automatic Parallelization and OpenMP Offloading of Fortran.*
 CGO '24 LLVM Performance Workshop
 
@@ -52,12 +60,12 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 ## Posters
 
 ##### Mar. 2024
-*(Accepted)* **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
+**I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
 *Dynamic Thread Coarsening for OpenMP Offloading.*
 CGO '24 Student Research Competition.
 
 ##### Mar. 2024
-*(Accepted)* S. Burak, **I. R. Ivanov**, J. Domke, M. Mueller.
+S. Burak, **I. R. Ivanov**, J. Domke, M. Mueller.
 *Unifying SPMD and Multi-Value IR - Use Case: Static Verification of Collective Communication.*
 CGO '24 Student Research Competition.
 
