@@ -35,7 +35,7 @@ location = {Montreal, QC, Canada},
 series = {PPoPP '23},
 selected={true}
 },
-@inproceedings{polygeist-coarsening,
+@inproceedings{polygeist-coarsening-bak,
 author = {Ivanov, Ivan R. and Zinenko, Oleksandr and Domke, Jens and Endo, Toshio and Moses, William S.},
 title = {Retargeting and Respecializing GPU Workloads for Performance Portability},
 year = {2024},
@@ -45,5 +45,20 @@ booktitle = {Proceedings of the 22nd ACM/IEEE International Symposium on Code Ge
 series = {CGO '24},
 selected={true}
 }
+@INPROCEEDINGS {polygeist-coarsening,
+author = {I. R. Ivanov and O. Zinenko and J. Domke and T. Endo and W. S. Moses},
+booktitle = {2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)},
+title = {Retargeting and Respecializing GPU Workloads for Performance Portability},
+year = {2024},
+volume = {},
+issn = {},
+pages = {119-132},
+abstract = {In order to come close to peak performance, accelerators like GPUs require significant architecture-specific tuning that understand the availability of shared memory, parallelism, tensor cores, etc. Unfortunately, the pursuit of higher performance and lower costs have led to a significant diversification of architecture designs, even from the same vendor. This creates the need for performance portability across different GPUs, especially important for programs in a particular programming model with a certain architecture in mind. Even when the program can be seamlessly executed on a different architecture, it may suffer a performance penalty due to it not being sized appropriately to the available hardware resources such as fast memory and registers, let alone not using newer advanced features of the architecture. We propose a new approach to improving performance of (legacy) CUDA programs for modern machines by automatically adjusting the amount of work each parallel thread does, and the amount of memory and register resources it requires. By operating within the MLIR compiler infrastructure, we are able to also target AMD GPUs by performing automatic translation from CUDA and simultaneously adjust the program granularity to fit the size of target GPUs. Combined with autotuning assisted by the platform-specific compiler, our approach demonstrates 27% geomean speedup on the Rodinia benchmark suite over baseline CUDA implementation as well as performance parity between similar NVIDIA and AMD GPUs executing the same CUDA program.},
+keywords = {costs;codes;memory management;graphics processing units;hardware;software;registers},
+doi = {10.1109/CGO57630.2024.10444828},
+url = {https://doi.ieeecomputersociety.org/10.1109/CGO57630.2024.10444828},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {mar}
+}
 ---
-
