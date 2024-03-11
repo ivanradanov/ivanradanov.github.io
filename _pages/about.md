@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tokyo Institute of Technology, RIKEN R-CCS, LLNL (Intern) #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Tokyo Institute of Technology, RIKEN R-CCS #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
