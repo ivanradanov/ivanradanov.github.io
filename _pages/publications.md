@@ -17,11 +17,11 @@ nav_order: 1
 ## Talks
 
 ##### Apr. 2024
-(Accepted) **I. R. Ivanov** and W. S. Moses.
+**I. R. Ivanov** and W. S. Moses.
 *Automatic Retuning of Floating-Point Precision -Ivan R. Ivanov, William S. Moses*
 
 ##### Apr. 2024
-(Accepted) Johannes Doerfert and **Ivan R. Ivanov**
+**Ivan R. Ivanov**, Aiden Grossman, Ludger Paehler, William S. Moses, Johannes Doerfert
 *Automatic Proxy App Generation through Input Capture and Generation*
 
 ##### Mar. 2024
