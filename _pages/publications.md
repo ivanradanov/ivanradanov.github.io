@@ -59,6 +59,11 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
+##### Apr. 2024
+**I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
+*Automatic Parallelization and OpenMP Offloading of Fortran.*
+JLESC 16
+
 ##### Mar. 2024
 **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
 *Dynamic Thread Coarsening for OpenMP Offloading.*
