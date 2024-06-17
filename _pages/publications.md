@@ -18,7 +18,7 @@ nav_order: 1
 
 ##### Apr. 2024
 **I. R. Ivanov** and W. S. Moses.
-*Automatic Retuning of Floating-Point Precision -Ivan R. Ivanov, William S. Moses*
+*Automatic Retuning of Floating-Point Precision*
 
 ##### Apr. 2024
 **Ivan R. Ivanov**, Aiden Grossman, Ludger Paehler, William S. Moses, Johannes Doerfert
