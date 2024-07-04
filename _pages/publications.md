@@ -16,13 +16,24 @@ nav_order: 1
 
 ## Talks
 
+<!---
+TODO RIKEN Summer school poster
+--->
+
+#### June 2024
+**I. R. Ivanov**
+*Retargeting and Respecializing GPU Workloads for Performance Portability.*
+R-CCS Cafe
+
 ##### Apr. 2024
 **I. R. Ivanov** and W. S. Moses.
 *Automatic Retuning of Floating-Point Precision*
+2024 Euro LLVM Developers' Meeting
 
 ##### Apr. 2024
 **Ivan R. Ivanov**, Aiden Grossman, Ludger Paehler, William S. Moses, Johannes Doerfert
 *Automatic Proxy App Generation through Input Capture and Generation*
+2024 Euro LLVM Developers' Meeting
 
 ##### Mar. 2024
 **I. R. Ivanov**, O. Zinenko, J. Domke, T. Endo, and W. S. Moses.
@@ -100,7 +111,7 @@ Improved failover for HPC interconnects through localised routing restoration
 <!---
 ## Conference Service
 CGO24 LLVM Performance Workshop Moderation
-2024 Euro LLVM session Moderation
+2024 Euro LLVM Session Moderation
 SC 24 Reproducibility Committee Member
 EuroPar 24 LLVM-GPU Workshop Program Committee Member
 -->
