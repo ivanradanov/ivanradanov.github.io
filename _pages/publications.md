@@ -114,4 +114,9 @@ CGO24 LLVM Performance Workshop Moderation
 2024 Euro LLVM Session Moderation
 SC 24 Reproducibility Committee Member
 EuroPar 24 LLVM-GPU Workshop Program Committee Member
+Review for LLMxHPC 2024 @ Cluster '24
+
+
+## Other
+Oversee GSOC project with input-gen etc
 -->
