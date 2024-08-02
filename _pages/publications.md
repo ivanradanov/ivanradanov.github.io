@@ -15,11 +15,17 @@ nav_order: 2
 
 </div>
 
+<!---
+IWOMP
+EuroMPI
+--->
+
 ## Talks
 
-<!---
-TODO RIKEN Summer school poster
---->
+#### Aug 2024
+**I. R. Ivanov**
+*Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training*
+Monthly LLVM ML Guided Compiler Optimizations Meeting
 
 #### June 2024
 **I. R. Ivanov**
@@ -71,6 +77,12 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
+<!---
+TODO RIKEN Summer school poster
+--->
+
+
+
 ##### Apr. 2024
 **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
 *Automatic Parallelization and OpenMP Offloading of Fortran.*
@@ -109,13 +121,14 @@ Optimizations and Transformations of Parallel Code via High Level Intermediate R
 ##### Mar 2021 - Bachelor's Thesis
 Improved failover for HPC interconnects through localised routing restoration
 
-<!---
 ## Conference Service
-CGO24 LLVM Performance Workshop Moderation
-2024 Euro LLVM Session Moderation
-SC 24 Reproducibility Committee Member
+#### CGO24 LLVM Performance Workshop Moderation
+#### 2024 Euro LLVM Session Moderation
+#### SC 24 Reproducibility Committee Member
+#### Review for LLMxHPC 2024 @ Cluster '24
+
+<!---
 EuroPar 24 LLVM-GPU Workshop Program Committee Member
-Review for LLMxHPC 2024 @ Cluster '24
 
 
 ## Other
