@@ -122,10 +122,15 @@ Optimizations and Transformations of Parallel Code via High Level Intermediate R
 Improved failover for HPC interconnects through localised routing restoration
 
 ## Conference Service
-#### CGO24 LLVM Performance Workshop Moderation
-#### 2024 Euro LLVM Session Moderation
-#### SC 24 Reproducibility Committee Member
-#### Review for LLMxHPC 2024 @ Cluster '24
+
+CGO24 LLVM Performance Workshop Moderation
+
+2024 Euro LLVM Session Moderation
+
+SC 24 Reproducibility Committee Member
+
+Review for LLMxHPC 2024 @ Cluster '24
+
 
 <!---
 EuroPar 24 LLVM-GPU Workshop Program Committee Member
