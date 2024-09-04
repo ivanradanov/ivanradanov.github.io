@@ -22,24 +22,31 @@ EuroMPI
 
 ## Talks
 
-#### Aug 2024
+<!---
+##### Sep. 2024
 **I. R. Ivanov**
-*Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training*
+*Rescheduling GPU kernels to exploit modern hardware.*
+RIKEN Joint Lab Seminar
+--->
+
+#### Aug. 2024
+**I. R. Ivanov**
+*Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training.*
 Monthly LLVM ML Guided Compiler Optimizations Meeting
 
-#### June 2024
+#### June. 2024
 **I. R. Ivanov**
 *Retargeting and Respecializing GPU Workloads for Performance Portability.*
 R-CCS Cafe
 
 ##### Apr. 2024
 **I. R. Ivanov** and W. S. Moses.
-*Automatic Retuning of Floating-Point Precision*
+*Automatic Retuning of Floating-Point Precision.*
 2024 Euro LLVM Developers' Meeting
 
 ##### Apr. 2024
 **Ivan R. Ivanov**, Aiden Grossman, Ludger Paehler, William S. Moses, Johannes Doerfert
-*Automatic Proxy App Generation through Input Capture and Generation*
+*Automatic Proxy App Generation through Input Capture and Generation.*
 2024 Euro LLVM Developers' Meeting
 
 ##### Mar. 2024
@@ -78,10 +85,11 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 ## Posters
 
 <!---
-TODO RIKEN Summer school poster
+##### Apr. 2024
+**I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
+*Automatic Parallelization and OpenMP Offloading of Fortran.*
+RIKEN Summer School 2024
 --->
-
-
 
 ##### Apr. 2024
 **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
