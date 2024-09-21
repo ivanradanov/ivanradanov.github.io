@@ -1,18 +1,22 @@
 ---
-@InProceedings{iwomp-workdistribute,
-author={Ivanov, Ivan R.
+@InProceedings{10.1007/978-3-031-72567-8_13,
+author="Ivanov, Ivan R.
 and Domke, Jens
 and Endo, Toshio
-and Doerfert, Johannes},
-editor={},
-title={Automatic Parallelization and OpenMP Offloading of Fortran Array Notation},
-booktitle={Advancing OpenMP for Future Accelerators},
-year={2024},
-publisher={Springer Nature Switzerland},
-address={},
-pages={},
-abstract={},
-isbn={},
+and Doerfert, Johannes",
+editor="Espinosa, Alexis
+and Klemm, Michael
+and de Supinski, Bronis R.
+and Cytowski, Maciej
+and Klinkenberg, Jannis",
+title="Automatic Parallelization and OpenMP Offloading of Fortran Array Notation",
+booktitle="Advancing OpenMP for Future Accelerators",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="197--209",
+abstract="The Fortran programming language is prevalent in the scientific computing community with a wealth of existing software written in it. It is still being developed with the latest standard released in 2023. However, due to its long history, many old code bases are in need of modernization for new HPC systems. One advantage Fortran has over C and C++, which are other languages broadly used in scientific computing, is the easy syntax for manipulating entire arrays or subarrays. However, this feature is underused as there was no way of offloading them to accelerators and support for parallelization has been unsatisfactory. The new OpenMP 6.0 standard introduces the workdistribute directive which enables parallelization and/or offloading automatically by just annotating the region the programmer wishes to speed up. We implement workdistribute in the LLVM project's Fortran compiler, called Flang. Flang uses MLIR -- Multi-Level Intermediate Representation -- which allows for a structured representation that captures the high level semantics of array manipulation and OpenMP. This allows us to build an implementation that performs on par with more verbose manually parallelized OpenMP code. By offloading linear algebra operations to vendor libraries, we also enable software developers to easily unlock the full potential of their hardware without needing to write verbose, vendor-specific source code.",
+isbn="978-3-031-72567-8",
 
 abbr = {IWOMP '24},
 },
