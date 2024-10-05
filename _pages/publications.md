@@ -29,6 +29,12 @@ EuroMPI
 RIKEN Joint Lab Seminar
 --->
 
+#### Sep. 2024
+**I. R. Ivanov**, Jens Domke, Toshio Endo, and Johannes Doerfert
+*Automatic Parallelization and OpenMP Offloading of Fortran Array Notation*
+20th International Workshop on OpenMP
+
+
 #### Aug. 2024
 **I. R. Ivanov**
 *Input-Gen: Guided Generation of Stateful Inputs for Testing, Tuning, and Training.*
