@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Publications, talks, and posters by categories in reversed chronological order.
+description: Publications, talks, and posters by categories in reverse chronological order.
 nav: true
 nav_order: 2
 ---
