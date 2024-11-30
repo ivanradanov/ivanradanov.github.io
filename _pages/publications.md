@@ -137,18 +137,23 @@ Improved failover for HPC interconnects through localised routing restoration
 
 ## Conference Service
 
-CGO24 LLVM Performance Workshop Moderation
+SC 24 Reproducibility Committee Member.
 
-2024 Euro LLVM Session Moderation
+EuroPar 24 LLVM-GPU Workshop Program Committee Member.
 
-SC 24 Reproducibility Committee Member
+CGO25 Artifact Evaluation Comittee Member.
+
+CGO24 LLVM Performance Workshop Moderation.
+
+2024 Euro LLVM Session Moderation.
 
 Review for LLMxHPC 2024 @ Cluster '24
 
+Review for IPDPS25.
+
+Review for HPC Asia 2025.
 
 <!---
-EuroPar 24 LLVM-GPU Workshop Program Committee Member
-
 
 ## Other
 Oversee GSOC project with input-gen etc
