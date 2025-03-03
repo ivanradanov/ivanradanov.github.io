@@ -17,12 +17,12 @@ nav_order: 2
 
 ## Talks
 
-#### Mar. 2025
+##### Mar. 2025
 **I. R. Ivanov**,  Jens Domke, Toshio Endo, Johannes Doerfert
 *Automatic Minimal and Relocatable Proxy App Generation*
 Student Research Competition at CGO 2025
 
-#### Mar. 2025
+##### Mar. 2025
 **I. R. Ivanov**, William Moses, Emil Vatai, Toshio Endo, Jens Domke, Alex Zinenko
 *Polyhedral Rescheduling of GPU Kernels To Exploit Async Memory Movement*
 Ninth LLVM Performance Workshop at CGO 2025
@@ -94,7 +94,7 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
-#### Mar. 2025
+##### Mar. 2025
 **I. R. Ivanov**,  Jens Domke, Toshio Endo, Johannes Doerfert
 *Automatic Minimal and Relocatable Proxy App Generation*
 Student Research Competition at CGO 2025
