@@ -15,12 +15,17 @@ nav_order: 2
 
 </div>
 
-<!---
-IWOMP
-EuroMPI
---->
-
 ## Talks
+
+#### Mar. 2025
+**I. R. Ivanov**,  Jens Domke, Toshio Endo, Johannes Doerfert
+*Automatic Minimal and Relocatable Proxy App Generation*
+Student Research Competition at CGO 2025
+
+#### Mar. 2025
+**I. R. Ivanov**, William Moses, Emil Vatai, Toshio Endo, Jens Domke, Alex Zinenko
+*Polyhedral Rescheduling of GPU Kernels To Exploit Async Memory Movement*
+Ninth LLVM Performance Workshop at CGO 2025
 
 <!---
 ##### Sep. 2024
@@ -33,7 +38,6 @@ RIKEN Joint Lab Seminar
 **I. R. Ivanov**, Jens Domke, Toshio Endo, and Johannes Doerfert
 *Automatic Parallelization and OpenMP Offloading of Fortran Array Notation*
 20th International Workshop on OpenMP
-
 
 ##### Aug. 2024
 **I. R. Ivanov**
@@ -90,12 +94,15 @@ restoration.* The 3rd R-CCS Internation Symposium. Lightning Talk
 
 ## Posters
 
-<!---
+#### Mar. 2025
+**I. R. Ivanov**,  Jens Domke, Toshio Endo, Johannes Doerfert
+*Automatic Minimal and Relocatable Proxy App Generation*
+Student Research Competition at CGO 2025
+
 ##### Apr. 2024
 **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
 *Automatic Parallelization and OpenMP Offloading of Fortran.*
 RIKEN Summer School 2024
---->
 
 ##### Apr. 2024
 **I. R. Ivanov**, J. Domke, T. Endo, and J. Doerfert.
@@ -139,7 +146,7 @@ Improved failover for HPC interconnects through localised routing restoration
 
 SC 24 Reproducibility Committee Member.
 
-EuroPar 24 LLVM-GPU Workshop Program Committee Member.
+LLVM-GPU: First International Workshop on LLVM for GPUs at EuroPar 24 Program Committee Member
 
 CGO25 Artifact Evaluation Comittee Member.
 
@@ -147,7 +154,7 @@ CGO24 LLVM Performance Workshop Moderation.
 
 2024 Euro LLVM Session Moderation.
 
-Review for LLMxHPC 2024 @ Cluster '24
+Review for LLMxHPC 2024 at Cluster '24
 
 Review for IPDPS25.
 
