@@ -147,6 +147,8 @@ Improved failover for HPC interconnects through localised routing restoration
 
 ## Conference Service
 
+EuroPar 2025 Program Comittee Member.
+
 SC 24 Reproducibility Committee Member.
 
 LLVM-GPU: First International Workshop on LLVM for GPUs at EuroPar 24 Program Committee Member
