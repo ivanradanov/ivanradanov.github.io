@@ -147,6 +147,8 @@ Improved failover for HPC interconnects through localised routing restoration
 
 ## Conference Service
 
+CGO 2026 Workshop & Tutorial Chair
+
 EuroPar 2025 Program Comittee Member.
 
 SC 24 Reproducibility Committee Member.
