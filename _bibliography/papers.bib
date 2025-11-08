@@ -135,14 +135,25 @@ url={https://arxiv.org/abs/2507.04647},
 
 abbr = {SC '25},
 }
-@InProceedings{dynamic-thread-coarsening,
-author="Ivanov, Ivan R.
-and Domke, Jens
-and Endo, Toshio
-and Doerfert, Johannes",
-title="Dynamic Thread Coarsening for CPU and GPU OpenMP Code",
-year="2025",
+@inproceedings{10.1145/3731599.3767482,
+author = {Ivanov, Ivan R. and Domke, Jens and Endo, Toshio and Doerfert, Johannes},
+title = {Dynamic Thread Coarsening for CPU and GPU OpenMP Code},
+year = {2025},
+isbn = {9798400718717},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3731599.3767482},
+doi = {10.1145/3731599.3767482},
+abstract = {Thread coarsening is a well known optimization technique for GPUs. It enables instruction-level parallelism, reduces redundant computation, and can provide better memory access patterns. However, the presence of divergent control flow - cases where uniformity of branch conditions among threads cannot be proven at compile time - diminishes its effectiveness. In this work, we implement multi-level thread coarsening for CPU and GPU OpenMP code, by implementing a generic thread coarsening transformation on LLVM IR. We introduce dynamic convergence - a new technique that generates both coarsened and non-coarsened versions of divergent regions in the code and allows for the uniformity check to happen at runtime instead of compile time. We performed evalution on HecBench for GPU and LULESH for CPU. We found that best case speedup without dynamic convergence was 4.6\% for GPUs and 2.9\% for CPUs, while our approach achieved 7.5\% for GPUs and 4.3\% for CPUs.},
+booktitle = {Proceedings of the SC '25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+pages = {1066–1074},
+numpages = {9},
+keywords = {OpenMP, Thread Coarsening, Vectorization, LLVM, GPU, CPU},
+location = {
+},
+series = {SC Workshops '25},
 
 abbr = {LLVM-HPC @ SC '25},
-},
+pdf = {sc25-llvm-hpc-openmp-coarsening.pdf},
+}
 ---
