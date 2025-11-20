@@ -135,6 +135,9 @@ W. S. Moses, **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert, and O. Zinenko.
 *High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs in Polygeist/MLIR.* 2022 LLVM Developers' Meeting. 
 
 ## Awards
+
+SC25 Best Reproducibility Advancement Award
+
 CGO 2025 ACM Student Research Competition 3rd place
 
 ## Theses
