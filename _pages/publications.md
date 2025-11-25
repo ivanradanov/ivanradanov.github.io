@@ -18,7 +18,7 @@ nav_order: 2
 ## Talks
 <div class="publications">
 
-{% bibliography -f _bibliography/split/talks.bib %}
+{% bibliography -f split/talks.bib %}
 
 </div>
 
