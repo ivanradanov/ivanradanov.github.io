@@ -22,6 +22,15 @@ nav_order: 2
 
 </div>
 
+## Posters
+<div class="publications">
+
+{% bibliography -f split/talks.bib %}
+
+</div>
+
+{% comment %}
+
 ## Talks
 
 ##### Mar. 2025
@@ -140,6 +149,8 @@ Ryan Barton, Mohamed Wahib, Jens Domke, **Ivan R. Ivanov**, Toshio Endo, Satoshi
 ##### Nov. 2022
 W. S. Moses, **I. R. Ivanov**, J. Domke, T. Endo, J. Doerfert, and O. Zinenko.
 *High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs in Polygeist/MLIR.* 2022 LLVM Developers' Meeting. 
+
+{% endcomment %}
 
 ## Awards
 
