@@ -16,6 +16,13 @@ nav_order: 2
 </div>
 
 ## Talks
+<div class="publications">
+
+{% bibliography -f _bibliography/split/talks.bib %}
+
+</div>
+
+## Talks
 
 ##### Mar. 2025
 **I. R. Ivanov**,  Jens Domke, Toshio Endo, Johannes Doerfert

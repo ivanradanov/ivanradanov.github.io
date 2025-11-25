@@ -1,0 +1,42 @@
+
+@InProceedings{10.1007/978-3-031-72567-8_13,
+author="Ivanov, Ivan R.
+and Domke, Jens
+and Endo, Toshio
+and Doerfert, Johannes",
+editor="Espinosa, Alexis
+and Klemm, Michael
+and de Supinski, Bronis R.
+and Cytowski, Maciej
+and Klinkenberg, Jannis",
+title="Automatic Parallelization and OpenMP Offloading of Fortran Array Notation",
+booktitle="Advancing OpenMP for Future Accelerators",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="197--209",
+abstract="The Fortran programming language is prevalent in the scientific computing community with a wealth of existing software written in it. It is still being developed with the latest standard released in 2023. However, due to its long history, many old code bases are in need of modernization for new HPC systems. One advantage Fortran has over C and C++, which are other languages broadly used in scientific computing, is the easy syntax for manipulating entire arrays or subarrays. However, this feature is underused as there was no way of offloading them to accelerators and support for parallelization has been unsatisfactory. The new OpenMP 6.0 standard introduces the workdistribute directive which enables parallelization and/or offloading automatically by just annotating the region the programmer wishes to speed up. We implement workdistribute in the LLVM project's Fortran compiler, called Flang. Flang uses MLIR -- Multi-Level Intermediate Representation -- which allows for a structured representation that captures the high level semantics of array manipulation and OpenMP. This allows us to build an implementation that performs on par with more verbose manually parallelized OpenMP code. By offloading linear algebra operations to vendor libraries, we also enable software developers to easily unlock the full potential of their hardware without needing to write verbose, vendor-specific source code.",
+isbn="978-3-031-72567-8",
+
+pdf = {iwomp-workdistribute.pdf},
+abbr = {IWOMP '24},
+},
+@InProceedings{10.1007/978-3-031-73370-3_1,
+author="Burak, Semih
+and Ivanov, Ivan R.
+and Domke, Jens
+and M{\"u}ller, Matthias",
+editor="Blaas-Schenner, Claudia
+and Niethammer, Christoph
+and Haas, Tobias",
+title="SPMD IR: Unifying SPMD and Multi-value IR Showcased for Static Verification of Collectives",
+booktitle="Recent Advances in the Message Passing Interface",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="3--20",
+abstract="To effectively utilize modern HPC clusters, inter-node communication and related single program, multiple data (SPMD) parallel programming models such as mpi are inevitable. Current tools and compilers that employ analyses of SPMD models often have the limitation of only supporting one model or implementing the necessary abstraction internally. This makes the analysis and effort for the abstraction neither reusable nor the tool extensible to other models without extensive changes to the tool itself.",
+isbn="978-3-031-73370-3",
+
+abbr = {EuroMPI '24},
+},
